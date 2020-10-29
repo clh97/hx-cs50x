@@ -14,3 +14,6 @@
 
 ## Sandbox URL
 https://sandbox.cs50.io/0f85dff6-4949-4cf7-955e-fe70edd80335
+
+## CS50 IDE URL
+https://us-west-2.console.aws.amazon.com/cloud9/ide/3e63d6383149442fadcc5f29e96554ec?#
