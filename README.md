@@ -6,7 +6,7 @@
     * Week 1 notes [ok]
 * Week 2 - Arrays [ok]
     * Week 2 - [Readability exercise](https://cs50.harvard.edu/x/2020/psets/2/readability/) [ok]
-    * Week 2 - [Substitution exercise](https://cs50.harvard.edu/x/2020/psets/2/substitution/) []
+    * Week 2 - [Substitution exercise](https://cs50.harvard.edu/x/2020/psets/2/substitution/) [ok]
 * Week 3 - Algorithms []
 * Week 4 - Memory []
 * Week 5 - Data Structures []
